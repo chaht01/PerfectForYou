@@ -12,7 +12,7 @@ Prototyping: Hyuntak Cha
 
 Made with Framer
 
-For more information, visit portfolio [site](http://hyuntak.com/ndf).
+For more information, visit portfolio [site](http://hyuntak.com/ndf) and play [it](http://pfy.hyuntak.com).
 
 
 ## See Also
